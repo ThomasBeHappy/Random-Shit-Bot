@@ -31,6 +31,7 @@ namespace CoolDiscordBot
             _weatherservice = new weatherservice();
 
             // Avoid hard coding your token. Use an external source instead in your code.
+            string token = "NDI1NjU2MTQ1OTYxNTQ5ODI0.DZKmsw.NJJH2OP7th-rGtnEyHnikj1pv5U";
 
             
 
